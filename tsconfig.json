@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "outDir": "./dist/", // 出力先のディレクトリパス
+    "target": "ES2015",
+    "jsx": "react"
+  }
+}
